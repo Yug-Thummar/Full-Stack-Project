@@ -15,17 +15,27 @@ Wanderlust is a full-stack marketplace application inspired by Airbnb that allow
 🛠️ Tech Stack
 Frontend:
 EJS (Embedded JavaScript)
+
 Bootstrap 5
+
 CSS3 & Custom Styles
+
 JavaScript (DOM Manipulation)
 
 Backend:
+
 Node.js & Express.js
+
 MongoDB & Mongoose
+
 Passport.js (Authentication)
+
 Services & APIs:
+
 Maps: Mapbox GL JS & Geocoding API
+
 Storage: Cloudinary (Image Hosting)
+
 Validation: Joi (Server-side validation)
 
 ⚙️ Environment Variables
@@ -33,6 +43,7 @@ To run this project, you will need to add the following environment variables to
 
 🚀 Getting Started
 Prerequisites
+
 Node.js (v14 or higher)
 
 MongoDB (Atlas Account)
